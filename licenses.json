@@ -1,1 +1,14 @@
-{}
+{
+  "data": {
+    "generated": "2026-08-17T23:35:53.259417+00:00",
+    "licenses": {
+      "PRONATEL-OP-01": {
+        "client": "PRONATEL",
+        "role": "admin",
+        "expiry": "2026-09-01",
+        "revoked": false
+      }
+    }
+  },
+  "sig": "9tutZoOk6qE/IrwXLxPgg4YhajHWdjfOf0ZEqr8hAQRVrf1XKLragd5LFrwihfuvQdic322/eqfPDAzE+OEJAQ=="
+}
