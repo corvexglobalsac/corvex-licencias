@@ -1,14 +1,14 @@
 {
   "data": {
-    "generated": "2026-08-18T00:59:18.892189+00:00",
+    "generated": "2026-08-18T01:03:21.126910+00:00",
     "licenses": {
       "PRONATEL-OP-01": {
         "client": "PRONATEL",
         "role": "supervisor",
         "expiry": "2026-09-02",
-        "revoked": true
+        "revoked": false
       }
     }
   },
-  "sig": "a/mwCkgLj4cNsmmJix1z1a0AtzBg/sCMf9RywTdM2iAyc1i611RJIdAh9FReBTYgq336Ut3zdwqDZof7/lZMBQ=="
+  "sig": "wb0ylo+1akTtxBLtNRHtkANdEpVIZJNk/N1wQFpJuF5tml3tFQniMi2s+6U0EVONqjgSqAPTFlX833SdBEZdCA=="
 }
