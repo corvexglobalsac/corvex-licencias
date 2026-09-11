@@ -5,7 +5,7 @@
       "PRONATEL-OP-01": {
         "client": "PRONATEL",
         "role": "supervisor",
-        "expiry": "2026-09-02",
+        "expiry": "2026-10-02",
         "revoked": false
       }
     }
